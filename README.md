@@ -26,7 +26,7 @@ The sole purpose of making this website was to improve and familiarize myself wi
 I have made use of HTML which is a programing language that enabled me to generate this project.
 I incorporated CSS which aided in the design and styling of this website.
 
-### CONACT ME 📱
+### CONACT ME
 
 Email me at :natashawachira03@gmail.com
 linkedin NATASHAWACHIRA
